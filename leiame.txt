@@ -1,2 +1,19 @@
 Exercício do curso de PHP Udemy - João de Oliveira. 
 Site Zero Bugs https://zerobugs.com.br/
+
+CRUD 
+
+TAREFAS
+Criar banco de dados
+Criar página de cadastro de clientes
+Criar página de visualização de clientes
+Criar página de exclusão de clientes
+Criar página de edição de clientes
+
+CLIENTES
+id
+nome
+email
+data de nascimento
+telefone
+data de cadastro
